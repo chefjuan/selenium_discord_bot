@@ -42,8 +42,8 @@ async def on_message(message):
             await message.channel.send(response)
 
 
-TOKEN = 'MTA5NzQ5NDI0ODg4NDAyMzMyNg.GAiOR8.GJ-b_J58ao_yDb6hY45A_U5NnA8ctfe_cUt5zs'
-client.run('MTA5NzQ5NDI0ODg4NDAyMzMyNg.GAiOR8.GJ-b_J58ao_yDb6hY45A_U5NnA8ctfe_cUt5zs')
+TOKEN = 'YOUR_TOKEN_CODE'
+client.run('YOUR_TOKEN_CODE')
 
 while True:
     pass
